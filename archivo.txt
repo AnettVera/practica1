@@ -3,4 +3,9 @@ Archivo principal
 Rama principal modifico el archivo
 
 
+
 Usuario 3 cambio 1
+
+Usuario uno modifico el archivo principal
+
+Segunda linea de texto de usuario uno
