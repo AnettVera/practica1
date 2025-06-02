@@ -2,10 +2,20 @@ Archivo principal
 
 Rama principal modifico el archivo
 
-
-
 Usuario 3 cambio 1
 
 Usuario uno modifico el archivo principal
 
 Segunda linea de texto de usuario uno
+
+Usuario dos modifico el archivo
+
+Usuario dos segunda liena
+
+Usuario dos tercera linea
+
+Usuario dos cambio 4
+
+Usuario uno cambio 1
+
+Usuario 1 cambio 2
